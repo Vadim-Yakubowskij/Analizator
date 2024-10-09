@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wadim\\source\\repos\\Analizator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|C:\\Users\\wadim\\source\\repos\\Analizator\\analizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|solutionrelative:analizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|c:\\users\\wadim\\source\\repos\\analizator\\analizator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|solutionrelative:analizator\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|C:\\Users\\wadim\\source\\repos\\Analizator\\analizator\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|solutionrelative:analizator\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|C:\\Users\\wadim\\source\\repos\\Analizator\\analizator\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{200DBE8B-2C86-40A1-99C0-2FAB67BB976E}|Analizator\\Analizator.csproj|solutionrelative:analizator\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Player.cs",
+              "RelativeDocumentMoniker": "Analizator\\Player.cs",
+              "ToolTip": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Player.cs",
+              "RelativeToolTip": "Analizator\\Player.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:23:30.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Dealer.cs",
+              "RelativeDocumentMoniker": "Analizator\\Dealer.cs",
+              "ToolTip": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Dealer.cs",
+              "RelativeToolTip": "Analizator\\Dealer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:14:39.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Deck.cs",
+              "RelativeDocumentMoniker": "Analizator\\Deck.cs",
+              "ToolTip": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Deck.cs",
+              "RelativeToolTip": "Analizator\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:00:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Program.cs",
+              "RelativeDocumentMoniker": "Analizator\\Program.cs",
+              "ToolTip": "C:\\Users\\wadim\\source\\repos\\Analizator\\Analizator\\Program.cs*",
+              "RelativeToolTip": "Analizator\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwFEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:55:44.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

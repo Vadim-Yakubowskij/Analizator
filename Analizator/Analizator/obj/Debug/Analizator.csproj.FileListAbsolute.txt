@@ -1,0 +1,7 @@
+C:\Users\wadim\source\repos\Analizator\Analizator\bin\Debug\Analizator.exe.config
+C:\Users\wadim\source\repos\Analizator\Analizator\bin\Debug\Analizator.exe
+C:\Users\wadim\source\repos\Analizator\Analizator\bin\Debug\Analizator.pdb
+C:\Users\wadim\source\repos\Analizator\Analizator\obj\Debug\Analizator.csproj.AssemblyReference.cache
+C:\Users\wadim\source\repos\Analizator\Analizator\obj\Debug\Analizator.csproj.CoreCompileInputs.cache
+C:\Users\wadim\source\repos\Analizator\Analizator\obj\Debug\Analizator.exe
+C:\Users\wadim\source\repos\Analizator\Analizator\obj\Debug\Analizator.pdb
